@@ -2,7 +2,7 @@
 **Zip Pass - DCNUKER13**
 
 
-> ⚡ A simple and powerful Python-based application
+> ⚡ A simple and powerful Discord Server Nuker Bot!
 
 ---
 
