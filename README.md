@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 
 * Language: **Python 3**
-* Libraries: *(add your libs if any)*
+* Libraries: *```Nothing```*
 
 ---
 
