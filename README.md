@@ -1,5 +1,5 @@
 # 🚀 Python Project
-**Zip Pass - DCNUKER13**
+**Made by NotLucky, NoirR4IT0**
 
 
 > ⚡ A simple and powerful Discord Server Nuker Bot!
