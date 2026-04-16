@@ -55,7 +55,7 @@ python main.py
 
 ## 📸 Preview
 
-*Add output screenshot or GIF here*
+*Here is a preview*
 <img width="1609" height="927" alt="image" src="https://github.com/user-attachments/assets/2148d6c5-46d9-4d45-8a7e-a582d9894d2f" />
 
 ---
